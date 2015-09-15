@@ -1,2 +1,2 @@
 # GrimlandsPython
-Text-based adventure game writtin in Python
+Text-based adventure game written in Python
